@@ -1,0 +1,35 @@
+html  
+  title Delivering Discovery
+  include ../includes/head.pug
+  script(rel='javascript' src='scripts/labour.js')
+  script(rel='javascript' src='scripts/labour_book.js')
+  script(rel='javascript' src='scripts/labour_tooltip.js')
+  script(rel='javascript' src='scripts/labour_clusters.js')
+  script(rel='javascript' src='scripts/labour_utils.js')
+  link(rel='stylesheet' href='styles/view.css')
+  body
+    main
+      .navbar
+        a(href='/') Delivering Discovery
+        p &emsp;|&emsp; Discovering the Collection
+        a(href='/links.html').back Back
+      .sketch#sketch-container
+      .tooltip-div
+        //- p.digitalID
+        p.title
+        p.author
+        p.info.accent
+      .text-container-outer
+        .text-container-inner
+          .stage-container
+            h2.header.accent
+            p.body-copy
+          .cluster-container
+            h2.cluster-header.accent
+            p.cluster-details
+            p.cluster-copy
+      .fb-button.back
+        span <
+      .fb-button.forward
+        span >
+      include ../includes/bigger-device.pug

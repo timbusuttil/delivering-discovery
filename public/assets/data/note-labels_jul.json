@@ -1,0 +1,121 @@
+{"labels": [
+  {
+    "numBooks": 1808,
+    "name": "no contractor notes",
+    "x": 482,
+    "y": 551,
+    "percent": "70.1%"
+  },
+  {
+    "numBooks": 279,
+    "name": "foldouts",
+    "x": 709,
+    "y": 255,
+    "percent": "10.8%"
+  },
+  {
+    "numBooks": 94,
+    "name": "blank pages",
+    "x": 799,
+    "y": 434,
+    "percent": "3.6%"
+  },
+  {
+    "numBooks": 48,
+    "name": "binding issues",
+    "x": 165,
+    "y": 626,
+    "percent": "1.9%"
+  },
+  {
+    "numBooks": 69,
+    "name": "uncut pages",
+    "x": 521,
+    "y": 227,
+    "percent": "2.7%"
+  },
+  {
+    "numBooks": 36,
+    "name": "damaged/fragile",
+    "x": 229,
+    "y": 737,
+    "percent": "1.4%"
+  },
+  {
+    "numBooks": 45,
+    "name": "inconsistent page numbering",
+    "x": 793,
+    "y": 575,
+    "percent": "1.7%"
+  },
+  {
+    "numBooks": 35,
+    "name": "images",
+    "x": 174,
+    "y": 502,
+    "percent": "1.4%"
+  },
+  {
+    "numBooks": 30,
+    "name": "stuck pages",
+    "x": 871,
+    "y": 318,
+    "percent": "1.2%"
+  },
+  {
+    "numBooks": 25,
+    "name": "faded text",
+    "x": 120,
+    "y": 735,
+    "percent": "1.0%"
+  },
+  {
+    "numBooks": 29,
+    "name": "loose pages",
+    "x": 874,
+    "y": 207,
+    "percent": "1.1%"
+  },
+  {
+    "numBooks": 20,
+    "name": "cut off text",
+    "x": 313,
+    "y": 800,
+    "percent": "0.8%"
+  },
+  {
+    "numBooks": 15,
+    "name": "missing pages",
+    "x": 886,
+    "y": 527,
+    "percent": "0.6%"
+  },
+  {
+    "numBooks": 13,
+    "name": "marginalia",
+    "x": 413,
+    "y": 262,
+    "percent": "0.5%"
+  },
+  {
+    "numBooks": 17,
+    "name": "objects in book",
+    "x": 754,
+    "y": 671,
+    "percent": "0.7%"
+  },
+  {
+    "numBooks": 9,
+    "name": "crooked text",
+    "x": 390,
+    "y": 828,
+    "percent": "0.3%"
+  },
+  {
+    "numBooks": 7,
+    "name": "book not supplied",
+    "x": 220,
+    "y": 423,
+    "percent": "0.3%"
+  }
+]}

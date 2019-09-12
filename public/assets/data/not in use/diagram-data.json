@@ -1,0 +1,88 @@
+{
+  "diagramSections": [
+    {
+      "title": "Document page",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "Document page (with notes)",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "File structure",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "Embedded metadata",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "Checksum",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "Reference scans",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    },
+    {
+      "title": "External metadata",
+      "content": "",
+      "x": ,
+      "y": ,
+      "hoverRegion": {
+        "hx": ,
+        "hy": ,
+        "hw": ,
+        "hh":
+      }
+    }
+  ]
+}

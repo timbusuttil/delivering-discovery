@@ -1,0 +1,449 @@
+{
+  "page": "Discovering Labour",
+  "stages": [
+    {
+      "header": "Discovering Labour",
+      "subtitle": "All books",
+      "content": "In the 2016&ndash;17 financial year, the State Library of NSW digitised 2,579 books from the David Scott Mitchell collection.<br><br>Published between 1617 and 1911, the books are up to 400 years old, and have been in the State Library's collection for just over a century.",
+      "zoom": 1.3
+    },
+    {
+      "header": "A year* of digitisation",
+      "subtitle": "Time",
+      "content": "*Not exactly.<br><br>Most of this digitisation was completed over a four month period from April to July 2017. During the earlier half of the year, the task is organised; contractors pitch their services, a provider is selected, and the team is briefed on SLNSW's requirements for digitisation at an archival standard.",
+      "zoom": 0.2,
+      "labels": [
+        {
+          "name": "No date data",
+          "numBooks": 177,
+          "x": 500,
+          "y": 1450,
+          "percent": "6.9%",
+          "content": "Not every book has a recorded digitisation date. For the books in the collection that were never digitised (marked in red), this makes perfect sense. The others, however, are just one example of the difficulty of tracking large scale digitisation."
+        },
+        {
+          "name": "July",
+          "year": "2016",
+          "numBooks": 35,
+          "x": -1500,
+          "y": 600,
+          "percent": "1.4%",
+          "content": ""
+        },
+        {
+          "name": "August",
+          "year": "2016",
+          "numBooks": 0,
+          "x": -1167,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "September",
+          "year": "2016",
+          "numBooks": 0,
+          "x": -833,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "October",
+          "year": "2016",
+          "numBooks": 0,
+          "x": -500,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "November",
+          "year": "2016",
+          "numBooks": 0,
+          "x": -167,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "December",
+          "year": "2016",
+          "numBooks": 0,
+          "x": 166,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "January",
+          "year": "2017",
+          "numBooks": 0,
+          "x": 500,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "February",
+          "year": "2017",
+          "numBooks": 0,
+          "x": 833,
+          "y": 600,
+          "percent": "0.0%",
+          "content": ""
+        },
+        {
+          "name": "March",
+          "year": "2017",
+          "numBooks": 1,
+          "x": 1167,
+          "y": 600,
+          "percent": "0.04%",
+          "content": "Maybe an error in the data, maybe just an eager staff member. Who could say?"
+        },
+        {
+          "name": "April",
+          "year": "2017",
+          "numBooks": 538,
+          "x": 1500,
+          "y": 600,
+          "percent": "20.9%",
+          "content": ""
+        },
+        {
+          "name": "May",
+          "year": "2017",
+          "numBooks": 520,
+          "x": 1833,
+          "y": 600,
+          "percent": "20.2%",
+          "content": ""
+        },
+        {
+          "name": "June",
+          "year": "2017",
+          "numBooks": 327,
+          "x": 2167,
+          "y": 600,
+          "percent": "12.7%",
+          "content": ""
+        },
+        {
+          "name": "July",
+          "year": "2017",
+          "numBooks": 981,
+          "x": 2550,
+          "y": 600,
+          "percent": "38.0%",
+          "content": "While not strictly part of the financial year, these books were still digitised under the 2016&ndash;2017 contract (and it was the busiest month!)."
+        }
+      ]
+    },
+    {
+      "header": "One page at a time",
+      "subtitle": "Operator",
+      "content": "Sixteen individuals contributed to the digitisation of this subset of the collection. Over the course of a few months, these contractors individually photographed over 600,000 pages.<br><br>Even with specialised equipment, digitisation at this scale and quality takes time. Timestamps extracted from image metadata in the collection place an estimate at about 1705 hours of photography time alone (not including for administration, data entry, and re-processing for quality control).",
+      "zoom": 1,
+      "labels": [
+        {
+          "numBooks": 125,
+          "numFiles": 15248,
+          "name": "No operator data",
+          "x": 145,
+          "y": 420,
+          "percent": "2.6%",
+          "content": ""
+        },
+        {
+          "numBooks": 1,
+          "numFiles": 0,
+          "name": "Operator 1",
+          "x": 87,
+          "y": 493,
+          "percent": "0.0%",
+          "content": "Operator 1 has their name on precisely one book. It was never provided to the contractors, and was not digitised, giving Operator 1 a whopping 0.0% of the year's digitisation effort."
+        },
+        {
+          "numBooks": 11,
+          "numFiles": 2424,
+          "name": "Operator 2",
+          "x": 220,
+          "y": 250,
+          "percent": "0.4%",
+          "content": ""
+        },
+        {
+          "numBooks": 13,
+          "numFiles": 3455,
+          "name": "Operator 3",
+          "x": 114,
+          "y": 720,
+          "percent": "0.6%",
+          "content": ""
+        },
+        {
+          "numBooks": 18,
+          "numFiles": 3398,
+          "name": "Operator 4",
+          "x": 900,
+          "y": 590,
+          "percent": "0.6%",
+          "content": ""
+        },
+        {
+          "numBooks": 133,
+          "numFiles": 29092,
+          "name": "Operator 5",
+          "x": 245,
+          "y": 850,
+          "percent": "5.0%",
+          "content": ""
+        },
+        {
+          "numBooks": 96,
+          "numFiles": 24601,
+          "name": "Operator 6",
+          "x": 712,
+          "y": 930,
+          "percent": "4.2%",
+          "content": ""
+        },
+        {
+          "numBooks": 139,
+          "numFiles": 29584,
+          "name": "Operator 7",
+          "x": 792,
+          "y": 755,
+          "percent": "5.1%",
+          "content": ""
+        },
+        {
+          "numBooks": 6,
+          "numFiles": 984,
+          "name": "Operator 8",
+          "x": 768,
+          "y": 230,
+          "percent": "0.2%",
+          "content": ""
+        },
+        {
+          "numBooks": 558,
+          "numFiles": 132545,
+          "name": "Operator 9",
+          "x": 507,
+          "y": 835,
+          "percent": "22.7%",
+          "content": "Despite photographing 10,000 fewer pages than Operator 11, Operator 9 has the most contractor notes under their belt (although their friend Operator 16 has a higher ratio of note-taking)."
+        },
+        {
+          "numBooks": 243,
+          "numFiles": 53779,
+          "name": "Operator 10",
+          "x": 230,
+          "y": 660,
+          "percent": "9.2%",
+          "content": ""
+        },
+        {
+          "numBooks": 567,
+          "numFiles": 143331,
+          "name": "Operator 11",
+          "x": 418,
+          "y": 500,
+          "percent": "24.5%",
+          "content": "With almost a quarter of the year's digitisation work to their name, Operator 11 photographed more books in the David Scott Mitchell collection in 2016&ndash;2017 than anyone. Are they aware of this achievement?"
+        },
+        {
+          "numBooks": 1,
+          "numFiles": 411,
+          "name": "Operator 12",
+          "x": 835,
+          "y": 825,
+          "percent": "0.1%",
+          "content": "Operator 12 digitised only one book&mdash;one tenth of a percent of this subset of the collection."
+        },
+        {
+          "numBooks": 59,
+          "numFiles": 12264,
+          "name": "Operator 13",
+          "x": 508,
+          "y": 150,
+          "percent": "2.1%",
+          "content": ""
+        },
+        {
+          "numBooks": 100,
+          "numFiles": 23129,
+          "name": "Operator 14",
+          "x": 638,
+          "y": 270,
+          "percent": "4.0%",
+          "content": ""
+        },
+        {
+          "numBooks": 88,
+          "numFiles": 16418,
+          "name": "Operator 15",
+          "x": 375,
+          "y": 970,
+          "percent": "2.8%",
+          "content": ""
+        },
+        {
+          "numBooks": 421,
+          "numFiles": 93716,
+          "name": "Operator 16",
+          "x": 732,
+          "y": 560,
+          "percent": "16.0%",
+          "content": "Operator 16 was the most prolific with their annotations. Like Operator 9, almost half their books have a contractor note. Operator 16 and Operator 9 are often listed together as co-digitisers; fastidious friends, perhaps?"
+        }
+      ]
+    },
+    {
+      "header": "\"Dead bug, page 4\"",
+      "subtitle": "Notes",
+      "content": "During the digitisation process, the staff take notes on the condition of the books. These notes are primarily used for administration and quality control, and are not often included when the digital records are hosted online.<br><br>However, these notes cut through the collection in a unique way, and would certainly be a valuable resource for library patrons and researchers browsing online collections.",
+      "zoom": 1.1,
+      "labels": [
+        {
+          "numBooks": 1808,
+          "name": "no contractor notes",
+          "x": 493,
+          "y": 850,
+          "percent": "70.1%",
+          "content": "Most books in the collection have no contractor notes. As far as their metadata shows, they contain no marginalia, no torn pages, no binding issues, and no dead bugs."
+        },
+        {
+          "numBooks": 279,
+          "name": "foldouts",
+          "x": 795,
+          "y": 430,
+          "percent": "10.8%",
+          "content": "Any foldout pages are digitised in their closed state within the book, and then separately photographed in the opened state. Contractors note their location so that these images can be kept in page order once the opened and closed photographs are taken."
+        },
+        {
+          "numBooks": 94,
+          "name": "blank pages",
+          "x": 845,
+          "y": 562,
+          "percent": "3.6%",
+          "content": "Long runs of blank pages are not digitised. Perhaps unsurprisingly, most of the books in this category have a low file count as a result."
+        },
+        {
+          "numBooks": 48,
+          "name": "binding issues",
+          "x": 150,
+          "y": 758.196044921875,
+          "percent": "1.9%",
+          "content": ""
+        },
+        {
+          "numBooks": 69,
+          "name": "uncut pages",
+          "x": 590,
+          "y": 297.5171813964844,
+          "percent": "2.7%",
+          "content": ""
+        },
+        {
+          "numBooks": 36,
+          "name": "damaged/fragile",
+          "x": 235,
+          "y": 865,
+          "percent": "1.4%",
+          "content": "After a century in the collection, delaminated covers, ripped pages, and sprouts of mould are almost inevitable. In some cases, a book is too fragile to be photographed with the standard equipment; the weight of the glass used to hold the pages open would cause further damage."
+        },
+        {
+          "numBooks": 45,
+          "name": "inconsistent page numbering",
+          "x": 840,
+          "y": 695,
+          "percent": "1.7%",
+          "content": ""
+        },
+        {
+          "numBooks": 35,
+          "name": "contains images",
+          "x": 148,
+          "y": 600.494140625,
+          "percent": "1.4%",
+          "content": "Books containing images are noted so that they can be photographed separately later. Pictorial content is digitised at higher resolution, with special care taken to avoid the distortion of colours and proportions."
+        },
+        {
+          "numBooks": 30,
+          "name": "stuck pages",
+          "x": 450,
+          "y": 280,
+          "percent": "1.2%",
+          "content": ""
+        },
+        {
+          "numBooks": 25,
+          "name": "faded text",
+          "x": 121,
+          "y": 875,
+          "percent": "1.0%",
+          "content": ""
+        },
+        {
+          "numBooks": 29,
+          "name": "loose pages",
+          "x": 691,
+          "y": 180,
+          "percent": "1.1%",
+          "content": ""
+        },
+        {
+          "numBooks": 20,
+          "name": "cut off text",
+          "x": 335,
+          "y": 925,
+          "percent": "0.8%",
+          "content": ""
+        },
+        {
+          "numBooks": 15,
+          "name": "missing pages",
+          "x": 785,
+          "y": 790,
+          "percent": "0.6%",
+          "content": ""
+        },
+        {
+          "numBooks": 13,
+          "name": "marginalia",
+          "x": 185,
+          "y": 480,
+          "percent": "0.5%",
+          "content": "What tiny insights into readers gone by are tucked away in notes, scribbled in the margins of a hundred year old collection?"
+        },
+        {
+          "numBooks": 17,
+          "name": "objects in book",
+          "x": 340,
+          "y": 310,
+          "percent": "0.7%",
+          "content": "A handful of books in the collection carry stowaways, ranging from bookmarks to flowers (and of course, dead bugs)."
+        },
+        {
+          "numBooks": 9,
+          "name": "crooked text",
+          "x": 440,
+          "y": 930,
+          "percent": "0.3%",
+          "content": ""
+        },
+        {
+          "numBooks": 7,
+          "name": "book not supplied",
+          "x": 708,
+          "y": 835,
+          "percent": "0.3%",
+          "content": "For reasons unrecorded in the metadata, these books were due for digitisation, but never arrived."
+        }
+      ]
+    }
+  ]
+}

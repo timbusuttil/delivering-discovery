@@ -1,0 +1,14 @@
+{
+  "page": "Discovering Anomalies",
+  "stages": [
+    {
+      "content": "Not every one of the ~600,000 digitised pages is significant to every researcher and library patron, but this is not a new problem. Research within a collection always involves searching for needles in haystacks."
+    },
+    {
+      "content": "Digitisation contractors create detailed metadata on each book regarding pages of interest, but this information is usually hidden away on library interfaces because it’s classified as administrative data, not significant to patrons and researchers."
+    },
+    {
+      "content": "Making use of this metadata adds another layer of detail and context for researchers, and could lead them to interesting needles within the digital haystack."
+    }
+  ]
+}
