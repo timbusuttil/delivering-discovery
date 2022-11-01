@@ -17,7 +17,7 @@
     "request": "^2.87.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-stylus": "^2.7.0"
   }
 }
